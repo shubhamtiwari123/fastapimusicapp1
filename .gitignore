@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Pytest cache
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Log files
+*.log
+
+# SQLite database files
+*.sqlite3
+
+# IDEs and editors
+.idea/
+*.swp
+*.swo
+
+# Dist / packaging
+build/
+dist/
+*.egg-info/
+
+# MongoDB dumps
+dump/
